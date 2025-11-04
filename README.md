@@ -1,4 +1,4 @@
-Also check out my [YouTube channel](https://www.youtube.com/@outercloud)
+Also check out my [YouTube channel](https://www.youtube.com/@outercloud) and [itch.io profile](https://outercloudstudio.itch.io/)
 # Notable Open Souce Projects
 - [bridge.](https://github.com/bridge-core/editor) - Lead developer of the bridge. editor
 - [RISC-V](https://github.com/MIT-OpenCompute/RISC-V) - In development RISC-V chip for the MIT Open-Compute Team
