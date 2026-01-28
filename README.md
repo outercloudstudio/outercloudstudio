@@ -3,6 +3,7 @@ Also check out my [YouTube channel](https://www.youtube.com/@outercloud) and [it
 - [bridge.](https://github.com/bridge-core/editor) - Lead developer of the bridge. editor
 - [Nudge](https://github.com/outercloudstudio/nudge) - Fast distributed game runner for MIT Battlecode 
 - [RISC-V](https://github.com/MIT-OpenCompute/RISC-V) - In development RISC-V chip for the MIT Open-Compute Team
+- [Helpful Godot](https://github.com/outercloudstudio/helpful-godot) - A Collection of helpful utilies for the Godot game engine
 - [Rogue Squad](https://store.steampowered.com/app/3115900/Rogue_Squad/) - Solo developed indie game in Godot with custom netcode
 - [timy-gpu](https://github.com/MIT-OpenCompute/timy-gpu) - Experimental mini GPU design for testing out experimental chip design ideas for the MIT Open-Compute Team
 - [Cave Enhancements](https://github.com/Team-Abode/Cave-Enhancements) - Popular Minecraft Java Mod
