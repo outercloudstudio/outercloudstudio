@@ -1,5 +1,5 @@
 Also check out my [YouTube channel](https://www.youtube.com/@outercloud) and [itch.io profile](https://outercloudstudio.itch.io/)
-# Notable Open Souce Projects
+# Notable Open Source Projects
 - [bridge.](https://github.com/bridge-core/editor) - Lead developer of the bridge. editor
 - [Nudge](https://github.com/outercloudstudio/nudge) - Fast distributed game runner for MIT Battlecode 
 - [RISC-V](https://github.com/MIT-OpenCompute/RISC-V) - In development RISC-V chip for the MIT Open-Compute Team
