@@ -1,6 +1,7 @@
 Also check out my [YouTube channel](https://www.youtube.com/@outercloud) and [itch.io profile](https://outercloudstudio.itch.io/)
 # Notable Open Souce Projects
 - [bridge.](https://github.com/bridge-core/editor) - Lead developer of the bridge. editor
+- [Nudge](https://github.com/outercloudstudio/nudge) - Fast distributed game runner for MIT Battlecode 
 - [RISC-V](https://github.com/MIT-OpenCompute/RISC-V) - In development RISC-V chip for the MIT Open-Compute Team
 - [Rogue Squad](https://store.steampowered.com/app/3115900/Rogue_Squad/) - Solo developed indie game in Godot with custom netcode
 - [timy-gpu](https://github.com/MIT-OpenCompute/timy-gpu) - Experimental mini GPU design for testing out experimental chip design ideas for the MIT Open-Compute Team
