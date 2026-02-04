@@ -12,7 +12,7 @@ Also check out my [YouTube channel](https://www.youtube.com/@outercloud) and [it
 - [Vector Engine](https://github.com/outercloudstudio/Vector-Engine) - Custom Vulkan based animation renderer for scriptable motion graphics
 - [Mew Compiler](https://github.com/outercloudstudio/Mew-Compiler) - Compiler for the custom Mew language down to a playable Scratch project
 - [Firework](https://github.com/outercloudstudio/Firework) - Compiler for the custom Firework language, helps combine command and molang logic on entities for Minecraft Add-Ons
-- [Chess Challenge](https://github.com/outercloudstudio/Chess-Challenge) - A collectiong of small chess bots developed for Sebastian Lague's chess challenge
+- [Chess Challenge](https://github.com/outercloudstudio/Chess-Challenge) - A collection of small chess bots developed for Sebastian Lague's chess challenge
 
 # Closed Source Projects
 These are projects I worked on for Starfish Studios / Spark Universe
