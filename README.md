@@ -1,4 +1,4 @@
-Also check out my [YouTube channel](https://www.youtube.com/@outercloud) and [itch.io profile](https://outercloudstudio.itch.io/)
+Also check out my [YouTube channel](https://www.youtube.com/@outercloud) or [personal website](https://www.outercloud.dev/)!
 # Notable Open Source Projects
 - [bridge.](https://github.com/bridge-core/editor) - Lead developer of the bridge. editor
 - [Nudge](https://github.com/outercloudstudio/nudge) - Fast distributed game runner for MIT Battlecode 
